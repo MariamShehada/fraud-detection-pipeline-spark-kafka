@@ -12,7 +12,7 @@ The system combines offline model training with online stream processing to iden
 
 The following diagram illustrates the complete offline and online fraud detection pipeline.
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](system_architecture.png)
 
 ---
 
